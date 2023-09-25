@@ -1,0 +1,32 @@
+***These are the resources I have acquired in one seminar on OSINT***
+
+Socialbearing.com -> Extracting the information like the location, type of phone, origin of a tweet, etc.
+
+Vehicles:- cars.com and the government websites like ilsos.gov -> This involves Deep web.
+
+Network:- 
+- Google admin toolbox
+- dig command
+- nslookup
+- whois.com
+- MX records(Mail Exchange Records)
+
+Geolocation and MAC Address lookup
+- wigle.net : It is a wireshark OUI to look up for the MAC address.
+
+Finding Old Passwords
+- whoxy.com
+- haveibeenpwned.com
+- breachdirectory.org
+- hashcat(Tool in Linux)
+- Crackstation.net
+
+To extract metadata of an image -> Flickr
+
+Cryptocurrency OSINT
+-> Bitcoinabuse.com -> To get the hash value
+-> blockchain.com -> To get the value and other data of the transactions.
+-> keybase.io -> We can use the hash and trace back to the sender.
+
+To detect the digital presence of a username
+-> whatsmyname.app
